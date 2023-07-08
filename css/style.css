@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-image: url(../images/banner/banner3.png);
+    width: 100%;
+    /* background-position: center; */
+     background-repeat: no-repeat;
+    /* margin-bottom: 100px; */ 
+    background-size: contain;
+}
+.banner {
+    text-align: right;
+    padding-top: 160px;
+    padding-bottom: 170px;
+    padding-right: 68px;
+    padding-left: 585px;
+}
+.banner >  h3{
+    
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 900;
+    font-size: 65px;
+    color: #ffffff;
+
+}
+.banner >  p{
+    
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #ffffff;
+    padding: 20px 0 20px 150px;
+
+}
+
+.banner >  button{
+    
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #005FAC;
+    padding: 15px 10px;
+    background-color: #ffffff;
+    border-radius: 7px;
+    border: none;
+
+}
+
+
+
+
+/* 
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Send Flowers', cursive;
+font-family: 'Work Sans', sans-serif;
+*/
