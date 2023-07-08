@@ -167,14 +167,61 @@ header{
     border-radius: 7px;
     border: none; 
 }
+.footer{
+    display: inline-flex;
+    background-color:#151414 ;
+    padding: 100px 200px 50px 200px;
+}
+.danpash h3{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 900;
+    font-size: 45px;
+    color: #ffffff;
+    padding-bottom: 10px;
+    
+}
+.danpash p{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #ffffff;
+    padding-bottom: 20px;
+}
+.danpash img{
+ padding-left: 10px;
+}
+.bampash h3{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 900;
+    font-size: 45px;
+    color: #ffffff;
+    padding-bottom: 15px;
+}
 
+.danpash_txt{
+    padding-right: 228px;
+}
 
-
-
-
-
-
-
+.bampash input[type="email"]{
+    background-color: #151414;
+    border: 1px solid #ffffff;
+    padding: 14px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+.bampash input[type="submit"]{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #ffffff;
+    padding: 13px 35px;
+    background-color: #005FAC;
+    border-radius: 7px;
+    border: none;
+}
 
 
 
