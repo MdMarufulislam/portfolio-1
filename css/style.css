@@ -126,10 +126,47 @@ header{
     padding-bottom: 10px;
     
 }
-
-
-
-
+.contact_txt{
+    margin: 50px;
+    background-image: url(../images/watch.png);
+    background-size: cover;
+    height: 100%;
+    padding: 117px;
+    position: relative;
+   
+}
+.contact_txt img{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.contact_txt h3 {
+    position: absolute;
+    top: 40px;
+    left: 65px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+    color: #ffffff;
+    padding-right: 600px;
+    padding-bottom: 10px;
+    visibility: visible;
+}
+.contact_txt button{
+    position: absolute;
+    top: 60%;
+    left: 65px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #005FAC;
+    padding: 10px 5px;
+    background-color: #ffffff;
+    border-radius: 7px;
+    border: none; 
+}
 
 
 
